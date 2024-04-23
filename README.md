@@ -1,5 +1,20 @@
-# odin-recipes
+# The Odin Project Recipes
 
-This is a simple HTML website used to practice everything I have learnt so far in The Odin Project with a couple of my favorite recipes.
+### Live Demo
+[Recipes]https://nic18123.github.io/odin-recipes/
 
-Skills learned: setting up a Github repository, basic Git commands, e.g. add, commit, push, creating a HTML boilerplate, and using links, images, and lists in HTML
+## Description
+The Odin Project Recipes is a simple Website as part of [The Odin Project](https://www.theodinproject.com/) curriculum. 
+I created a simple website containing a main index page with links to three recipe pages.
+
+## Features
+- Main index page with links to three recipes pages.
+- Recipes sourced from Allrecipes.
+- Basic HTML structure.
+
+## Skills Learned
+- Setting up a Github repository
+- Basic git commands, e.g. add, commit, push
+- Creating a HTML boilerplate
+- Designing an index.html with a link list to the recipes pages
+- Use of images and lists in HTML
