@@ -1,7 +1,7 @@
 # The Odin Project Recipes
 
 ### Live Demo
-[Recipes]https://nic18123.github.io/odin-recipes/
+https://nic18123.github.io/odin-recipes/
 
 ## Description
 The Odin Project Recipes is a simple Website as part of [The Odin Project](https://www.theodinproject.com/) curriculum. 
