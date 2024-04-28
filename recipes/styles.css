@@ -1,0 +1,35 @@
+/* Styles for all recipe pages */
+body {
+    margin-left: 2.5%;
+    color: white;
+    background-color: black;
+    font-family: "Times New Roman", sans-serif;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.ingredients {
+    color: black;
+    background-color: white;
+}
+
+p {
+    color:black;
+    background-color: white;
+    font-size: 18px;
+}
+
+ul {
+    line-height: 1.5;
+    color:black;
+    background-color: white;
+    font-size: 18px;
+}
+
+ol {
+    line-height: 1.5;
+    list-style-type: upper-roman;
+    color:black;
+    background-color: white;
+    font-size: 18px;
+}
